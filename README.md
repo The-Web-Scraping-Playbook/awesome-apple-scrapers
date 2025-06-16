@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Apple OpsKit
+> Find out everything you need to know to reliably scrape Apple with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/apple)
+
+This kit provides the blueprint for Apple scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-apple-scrapers)
 - [Scrapers By Language](#apple-scrapers-by-language)
@@ -36,51 +47,50 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-apple-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility) ![img](https://github.com/ActiveConclusion.png?size=20) | jupyter notebook | ⭐ 272 | ✅ Yes | 2023-10-18 | ✅ |
-| [AppStoreReviews](https://github.com/grych/AppStoreReviews) ![img](https://github.com/grych.png?size=20) | python | ⭐ 161 | ✅ Yes | 2014-07-22 | ✅ |
-| [NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) ![img](https://github.com/nooverviewavailable.png?size=20) | ruby | ⭐ 156 | ✅ Yes | 2021-09-27 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility) ![img](https://github.com/ActiveConclusion.png?size=20) | jupyter notebook | ⭐ 272 | ❌ No | 2023-10-18 |
+| [AppStoreReviews](https://github.com/grych/AppStoreReviews) ![img](https://github.com/grych.png?size=20) | python | ⭐ 161 | ❌ No | 2014-07-22 |
+| [NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) ![img](https://github.com/nooverviewavailable.png?size=20) | ruby | ⭐ 156 | ❌ No | 2021-09-27 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Apple Scrapers By Language <a id="apple-scrapers-by-language"></a>
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [AppStoreReviews](https://github.com/grych/AppStoreReviews) | ⭐ 161 | 2014-07-22 | immediate | ❌ No |
+| [GS-LOC](https://github.com/zadewg/GS-LOC) | ⭐ 63 | 2023-08-17 | unknown | ❌ No |
+| [apple-news-scraper](https://github.com/comp-journalism/apple-news-scraper) | ⭐ 17 | 2020-05-26 | immediate | ❌ No |
+| [apple-job-scraper](https://github.com/thayton/apple-job-scraper) | ⭐ 12 | 2015-03-11 | immediate | ❌ No |
+
 
 ### C#
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [AppStoresScraper](https://github.com/Dissimilis/AppStoresScraper) | ⭐ 7 | 2016-06-09 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [AppStoresScraper](https://github.com/Dissimilis/AppStoresScraper) | ⭐ 7 | 2016-06-09 | immediate | ❌ No |
 
 
 ### Jupyter Notebook
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility) | ⭐ 272 | 2023-10-18 | — | ✅ Yes |
-| [apple-app-reviews-scraper](https://github.com/glennfang/apple-app-reviews-scraper) | ⭐ 12 | 2023-06-07 | — | ✅ Yes |
-| [GooglePlay-AppleStore-reviews-scraper](https://github.com/toxtli/GooglePlay-AppleStore-reviews-scraper) | ⭐ 10 | 2019-10-19 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility) | ⭐ 272 | 2023-10-18 | immediate | ❌ No |
+| [apple-app-reviews-scraper](https://github.com/glennfang/apple-app-reviews-scraper) | ⭐ 12 | 2023-06-07 | immediate | ❌ No |
+| [GooglePlay-AppleStore-reviews-scraper](https://github.com/toxtli/GooglePlay-AppleStore-reviews-scraper) | ⭐ 10 | 2019-10-19 | immediate | ❌ No |
 
 
 ### Php
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [icon-scraper](https://github.com/mpclarkson/icon-scraper) | ⭐ 21 | 2018-03-10 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [AppStoreReviews](https://github.com/grych/AppStoreReviews) | ⭐ 161 | 2014-07-22 | — | ✅ Yes |
-| [GS-LOC](https://github.com/zadewg/GS-LOC) | ⭐ 63 | 2023-08-17 | — | ✅ Yes |
-| [apple-news-scraper](https://github.com/comp-journalism/apple-news-scraper) | ⭐ 17 | 2020-05-26 | — | ✅ Yes |
-| [apple-job-scraper](https://github.com/thayton/apple-job-scraper) | ⭐ 12 | 2015-03-11 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [icon-scraper](https://github.com/mpclarkson/icon-scraper) | ⭐ 21 | 2018-03-10 | immediate | ❌ No |
 
 
 ### Ruby
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) | ⭐ 156 | 2021-09-27 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [NoOverviewAvailable.com](https://github.com/nooverviewavailable/NoOverviewAvailable.com) | ⭐ 156 | 2021-09-27 | immediate | ❌ No |
 
 ---
 
@@ -111,7 +121,7 @@ Know a Apple scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
