@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Apple OpsKit
-> Find out everything you need to know to reliably scrape Apple with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/apple)
+> Find out everything you need to know to reliably scrape Apple with our new tool: [Ops Kit](https://scrapeops.io/websites/apple)
 
 This kit provides the blueprint for Apple scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -109,7 +109,7 @@ This kit provides the blueprint for Apple scraping operations:
 ---
 
 ## 🧠 Apple Tutorials & How-Tos<a id="apple-tutorials"></a>
-- 📘 [How to Scrape Apple at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-apple/)
+- 📘 [How to Scrape Apple at Scale](https://scrapeops.io/websites/apple/how-to-scrape-apple)
 - 🔐 [Web Scraping Apple Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
